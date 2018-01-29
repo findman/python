@@ -8,7 +8,7 @@ Python中函数（function）或方法（method）的参数类型有那些，每
 
 ### 有那几种参数类型？
 - POSITIONAL_OR_KEYWORD 位置或比选参数
-- VAR_POSITIONAL 命名关键次参数
+- VAR_POSITIONAL 命名关键词参数
 - KEYWORD_ONLY 命名关键词参数
 - VAR_KEYWORD 关键词参数
 - POSITONAL_ONLY 位置参数（高版本已停用）
